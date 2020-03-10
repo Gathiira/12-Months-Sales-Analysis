@@ -8,9 +8,9 @@ The process involves the following steps:
 
 
 ### Then the following questions were answered through analysis
-Q1. what was the best month for sales? How much was earned that month?
-Q2. What's city has the highest number of sales?
-Q3. what time do we advertise the products to get maximum sales?
-Q4. What product are probably sold together?
-Q5. What product sold the most? and why do you think it sold most?
+1.  what was the best month for sales? How much was earned that month?
+2.  What's city has the highest number of sales?
+3.  what time do we advertise the products to get maximum sales?
+4.  What product are probably sold together?
+5.  What product sold the most? and why do you think it sold most?
 
